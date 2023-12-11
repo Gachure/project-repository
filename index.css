@@ -1,0 +1,16 @@
+body {background-color: yellowgreen;
+    padding: 0px;
+    margin: 0%;}
+    .topcontainer image{width: 100px;}
+    body {text-align: center;
+    text-align: center;
+    text-decoration: double;}
+    .topcontainer{background-color: green;
+    display: flex;
+    justify-content: space-around;}
+    .topcontainer img{width: 250px;}
+    .topcontainer ul{display: flex;
+    flex-wrap: wrap;
+    align-content: normal ;
+    list-style-type: none ;}
+    .topcontainer ul li{margin: 10px;}
